@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06217909-99a3-44fd-b50f-b90e2f2d6b57" name="Default Changelist" comment="" />
+    <list default="true" id="06217909-99a3-44fd-b50f-b90e2f2d6b57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lhRz3QE3vl759P3GVFDC1jZvKF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,9 +37,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.RockPaperScissors">
+  <component name="RunManager" selected="Python.8">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -33,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2/4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2/7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2/8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RockPaperScissors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,90 +133,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RockPaperScissors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Exercises_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Exercises_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Exercises_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="Exercises_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RockPaperScissors" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.5" />
+        <item itemvalue="Python.8" />
         <item itemvalue="Python.4" />
         <item itemvalue="Python.3" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.7" />
       </list>
     </recent_temporary>
   </component>
@@ -234,25 +186,25 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2106" y="274" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608230760629" />
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1608756771729">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1610388908378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1899" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608230822041" />
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608756771729" />
-    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1608756771729">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610388908378" />
+    <state width="1345" height="191" key="GridCell.Tab.0.center" timestamp="1610388908378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1899" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608230822040" />
-    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608756771729" />
-    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1608756771729">
+    <state width="1345" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610388908378" />
+    <state width="1345" height="191" key="GridCell.Tab.0.left" timestamp="1610388908378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1899" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608230822040" />
-    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608756771729" />
-    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1608756771729">
+    <state width="1345" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610388908378" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right" timestamp="1610388908378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1899" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608230822040" />
-    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608756771729" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610388908378" />
   </component>
 </project>
